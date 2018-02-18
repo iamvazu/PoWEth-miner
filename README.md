@@ -1,7 +1,13 @@
 
-# poweth ERC20 Token Miner
+# PoWEth ERC20 Token Miner
 
-Solves proof of work to mine supported ERC20 tokens.  
+Allow to create PoW ERC 20 token, for fair distribution and continuation of Ethereum mining after PoS became real.
+
+Real advantages and use cases:
+1. ERC20 Tokens same fast/stable and reliable like Ethereum itself!
+2. Support every ERC20 compatiable wallet.
+3. Tradeable every ERC20 marketplace.  
+4. PoWEth mining doesn't need infinite scaling it is some kind of green token after PoS activated on Ethereum mainnet.
 
 #### Windows
 1. Download [/dist/]()
