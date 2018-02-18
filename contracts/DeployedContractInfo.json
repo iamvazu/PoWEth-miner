@@ -1,0 +1,15 @@
+
+{
+  "networks": {
+      "mainnet": {
+              "contracts": {
+                "_PoWEthToken": {"name":"PoWEthToken", "blockchain_address":"0x60366Bcc5257c8688c62E637169038E3530536F8"}
+              }
+            },
+      "testnet": {
+              "contracts": {
+                "_PoWEthToken": {"name":"PoWEth", "blockchain_address":""}
+              }
+            } 
+    }
+}
