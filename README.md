@@ -1,7 +1,7 @@
 
 # PoWEth ERC20 Token Miner
 
-Allow to create PoW ERC 20 token, for fair distribution and continuation of Ethereum mining after PoS became real.
+Allow to create PoW ERC20 token, for fair distribution and continuation of Ethereum mining after PoS became real.
 
 Real advantages and use cases:
 1. ERC20 Tokens same fast/stable and reliable like Ethereum itself!
