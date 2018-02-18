@@ -5072,8 +5072,8 @@
                               "lValueRequested": false,
                               "subdenomination": null,
                               "token": "string",
-                              "type": "literal_string \"0xBTC\"",
-                              "value": "0xBTC"
+                              "type": "literal_string \"POWE\"",
+                              "value": "POWE"
                             },
                             "id": 322,
                             "name": "Literal",
