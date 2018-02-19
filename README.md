@@ -64,4 +64,4 @@ Note that it is necessary to fill the mining account (it is an Ethereum account)
 
 ## Original repo and idea 
 
-poweth token - https://github.com/poweth/poweth-token
+0xBitcoin token - https://github.com/0xbitcoin/0xbitcoin-token
